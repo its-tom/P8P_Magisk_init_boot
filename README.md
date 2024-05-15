@@ -1,7 +1,7 @@
 # P8P_Magisk_init_boot
 A collection of patched init_boot images with magisk for Google Pixel 8 Pro
 
->Latest version: **Android 15 Beta 1.2**  ⚠️
+>Latest version: **Android 15 Beta 2**  ⚠️
 
 ### Version
 The first part of the file name stands for the Android version and the last part for magisk.
